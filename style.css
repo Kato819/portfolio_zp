@@ -345,7 +345,7 @@ body {
   content: "";
   width: 24px;
   height: 24px;
-  background: url(../img/btn_email.svg) center / contain no-repeat;
+  background: url(btn_email.svg) center / contain no-repeat;
   margin-left: 8px;
 }
 
