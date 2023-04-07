@@ -620,7 +620,7 @@ body {
 }
 
 .about-img-box{
-  background-image: url(../img/about.jpg);
+  background-image: url(about.jpg);
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position:center;
