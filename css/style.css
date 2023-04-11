@@ -345,7 +345,7 @@ body {
   content: "";
   width: 24px;
   height: 24px;
-  background: url(btn_email.svg) center / contain no-repeat;
+  background: url(../img/btn_email.svg) center / contain no-repeat;
   margin-left: 8px;
 }
 
@@ -412,7 +412,7 @@ body {
 .m_cta {
   padding: 96px 16px;
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(img_contact.jpg) center / cover;
+    url(../img/img_contact.jpg) center / cover;
   position: relative;
 }
 
@@ -456,7 +456,8 @@ body {
 
 .m_kv {
   height: 320px;
-  background: url(top_kv.jpg) center 22% / cover;
+  background: 
+    url(../img/top_kv.jpg) center 22% / cover;
   position: relative;
 }
 
@@ -502,7 +503,8 @@ body {
 .top_kv {
   height: 600px;
   background: linear-gradient(rgba(51, 51, 51, 0.4), rgba(51, 51, 51, 0.4)),
-    url(top_kv.jpg) center / cover;
+    url(../img/top_kv.jpg) center / cover;
+  /* background: linear-gradient(rgba(51, 51, 51, 0.4), rgba(51, 51, 51, 0.4)); */
   position: relative;
 }
 
@@ -620,7 +622,7 @@ body {
 }
 
 .about-img-box{
-  background-image: url(about.jpg);
+  background-image: url(../img/about.jpg);
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position:center;
